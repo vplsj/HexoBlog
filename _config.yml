@@ -69,6 +69,7 @@ duoshuo_share: true
 google_analytics: 72133773-1
 sitemap:
   path: sitemap.xml
+google_site_verification: ZkCihYs0w3WNQmL0cXHLd-eJatqBIuqz6y7BWkvkcT4
 suprise:
   ball_enable: true
 # Deployment
