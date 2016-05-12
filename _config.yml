@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 七部书
+title: Virgo's Blog
 subtitle: 人可生如蚁，而美如神
 description: 人可生如蚁，而美如神
 author: Virgo
@@ -64,6 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+duoshuo_shortname: virgoone
 suprise:
   ball_enable: true
 # Deployment
