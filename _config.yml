@@ -3,20 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Virgo
 subtitle:
 description:
-author: John Doe
-language:
+author: Virgo
+language: zh-Hans
 timezone:
-
+avatar: https://avatars2.githubusercontent.com/u/8540582?v=3&s=460
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
+favicon: favicon.ico
 # Directory
 source_dir: source
 public_dir: public
@@ -68,4 +68,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/virgoone/virgoone.github.io.git
+  branch: master
