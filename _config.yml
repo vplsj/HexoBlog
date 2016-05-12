@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Virgo
+title: 七部书
 subtitle: 人可生如蚁，而美如神
-description:
+description: 人可生如蚁，而美如神
 author: Virgo
 language: zh-Hans
 timezone:
 avatar: https://avatars2.githubusercontent.com/u/8540582?v=3&s=460
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.virgo.one
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
