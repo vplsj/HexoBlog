@@ -65,6 +65,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 duoshuo_shortname: virgoone
+duoshuo_share: true
+google_analytics: 72133773-1
 suprise:
   ball_enable: true
 # Deployment
