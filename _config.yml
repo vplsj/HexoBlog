@@ -26,7 +26,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-
+since: 2015
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -64,7 +64,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
+suprise:
+  ball_enable: true
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
