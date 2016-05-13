@@ -49,4 +49,5 @@ tags:
 ```
 ^(13[0-9]|14[57]|15[012356789]|17[0678]|18[0-9])\d{8}$
 ```
-<!-- {% jsfiddle virgos/b9w1z7ug result,js,html,css light 100% 400 %} -->
+### 演示：
+{% jsfiddle virgos/nyb4sLfu result,js,html,css dark 100% 400 %}
