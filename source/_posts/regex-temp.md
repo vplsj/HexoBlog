@@ -50,4 +50,4 @@ tags:
 ^(13[0-9]|14[57]|15[012356789]|17[0678]|18[0-9])\d{8}$
 ```
 ### 演示：
-{% jsfiddle virgos/nyb4sLfu result,js,html,css dark 100% 400 %}
+{% jsfiddle virgos/6aswy82L result,js,html,css dark 100% 400 %}
