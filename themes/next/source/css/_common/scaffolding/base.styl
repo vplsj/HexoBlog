@@ -3,7 +3,12 @@
   background: $selection-bg;
   color: $selection-color;
 }
-
+.highlight{
+  ::selection {
+    background: $selection-color;
+    color: $selection-bg;
+  }
+}
 body {
   position: relative; // Required by scrollspy
   font-family: $font-family-base;
@@ -99,5 +104,3 @@ dd {
   margin: 0;
   padding: 0;
 }
-
-
