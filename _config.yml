@@ -76,8 +76,8 @@ google_site_verification: ZkCihYs0w3WNQmL0cXHLd-eJatqBIuqz6y7BWkvkcT4
 robotstxt:
   useragent: "*"
   disallow:
-    - /README.md
-    - /LICENSE.md
+    - http://blog.virgo.one/README.md
+    - http://blog.virgo.one/LICENSE.md
   sitemap: /sitemap.xml
 
 suprise:

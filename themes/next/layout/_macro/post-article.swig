@@ -79,7 +79,9 @@
               {% endfor %}
             </span>
           {% endif %}
-          
+          <span id="busuanzi_container_page_pv">
+           &nbsp; | &nbsp; 热度&nbsp; <span id="busuanzi_value_page_pv"></span>°C
+           </span>
           {% if post.comments %}
             {% if (theme.duoshuo and theme.duoshuo.shortname) or theme.duoshuo_shortname %}
               <span class="post-comments-count">
@@ -115,7 +117,7 @@
               </span>
           {% endif %}
 
-          {% if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.page_pv %}
+          {% if not is_index and theme.busuanzi_count.enable and not theme.busuanzi_count.page_pv %}
               &nbsp; | &nbsp;
               <span class="page-pv">{{ theme.busuanzi_count.page_pv_header }}
               <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>{{ theme.busuanzi_count.page_pv_footer }}
