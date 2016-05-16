@@ -7,7 +7,7 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
 </div>
-
+{% include '../_scripts/third-party/analytics/busuanzi-counter.swig' %}
 <div class="powered-by">
   {{ __('footer.powered', '<a class="theme-link" href="http://hexo.io">Hexo</a>') }}
 </div>
