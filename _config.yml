@@ -78,7 +78,7 @@ robotstxt:
   disallow:
     - http://blog.virgo.one/README.md
     - http://blog.virgo.one/LICENSE.md
-  sitemap: /sitemap.xml
+  sitemap: http://blog.virgo.one/sitemap.xml
 
 suprise:
   ball_enable: true
