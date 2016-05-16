@@ -73,9 +73,13 @@ google_analytics: 72133773-1
 sitemap:
   path: sitemap.xml
 google_site_verification: ZkCihYs0w3WNQmL0cXHLd-eJatqBIuqz6y7BWkvkcT4
-search:
-  path: search.xml
-  field: post
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /README.md
+    - /LICENSE.md
+  sitemap: /sitemap.xml
+
 suprise:
   ball_enable: true
 # Deployment
