@@ -1,6 +1,6 @@
 ---
 title: jade模版引擎学习
-date: 2016-05-17 21:15:35
+date: 2016-05-16 21:15:35
 categories:
   - jade
 tags:
@@ -10,7 +10,7 @@ tags:
   - 学习
 
 ---
-jade是一个高性能的模版引擎，Jade是Haml的Javascript实现，在服务端（NodeJS）及客户端均有支持。最新版本的jade更名为pug，对新版有兴趣的可以移步 => [Github地址](https://github.com/pugjs/pug)，因为项目中一直在使用jade作为模版，所以决定记录下学习jade的心得，欢迎交流
+jade是一个高性能的模版引擎，Jade是Haml的Javascript实现，在服务端（NodeJS）及客户端均有支持。最新版本的jade更名为pug，对新版有兴趣的可以移步 => [Github地址](https://github.com/pugjs/pug)，因为项目中一直在使用jade作为模版，所以决定记录下学习jade的心得，欢迎交流讨论
 ### 安装
 via npm:
 ```shell
