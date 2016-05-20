@@ -55,3 +55,5 @@ html(lang="en")
   </body>
 </html>
 ```
+### 语法
+1.赋值
