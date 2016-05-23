@@ -28,7 +28,7 @@ i18n_dir: :lang
 skip_render:
   - README.md
   - LICENSE.md
-
+  - sitemap.xml
 since: 2015
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -70,14 +70,12 @@ theme: next
 duoshuo_shortname: virgoone
 duoshuo_share: true
 google_analytics: 72133773-1
-sitemap:
-  path: sitemap.xml
 google_site_verification: ZkCihYs0w3WNQmL0cXHLd-eJatqBIuqz6y7BWkvkcT4
 robotstxt:
   useragent: "*"
   disallow:
-    - http://blog.virgo.one/README.md
-    - http://blog.virgo.one/LICENSE.md
+    - /README.md
+    - /LICENSE.md
   sitemap: http://blog.virgo.one/sitemap.xml
 
 suprise:
